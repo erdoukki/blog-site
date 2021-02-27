@@ -1,4 +1,4 @@
-Sitemap: https://doukki.net/sitemapindex.xml
+Sitemap: http://blog.kerma.eu/sitemapindex.xml
 
 User-Agent: *
-Host: doukki.net
+Host: blog.kerma.eu
